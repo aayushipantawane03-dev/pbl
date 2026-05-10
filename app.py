@@ -103,4 +103,3 @@ if run:
     ))
 
     st.plotly_chart(fig)
-```
